@@ -24,15 +24,22 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="940" height="1375" alt="image" src="https://github.com/user-attachments/assets/2e662a83-548c-49f3-973a-86a4e422da72" />
+
+**CALCULATION:**
+
+<img width="621" height="828" alt="image" src="https://github.com/user-attachments/assets/09f202a9-cf75-4e2d-aa89-cec898f8c428" />
+
+<img width="625" height="833" alt="image" src="https://github.com/user-attachments/assets/565a4415-6e69-467e-9927-cef277a8ce41" />
+
+OBSERVATION:
 
 
+<img width="568" height="426" alt="image" src="https://github.com/user-attachments/assets/27128067-f209-45f9-9211-9596cf5dd88f" />
 
+MARKS SPLIT-UP:
 
-
-
-
-
-
+<img width="537" height="406" alt="image" src="https://github.com/user-attachments/assets/1eec895a-b562-49a9-84eb-2b2a976d49ab" />
 
 
 **PROCEDURE:**
